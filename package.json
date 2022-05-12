@@ -9,7 +9,17 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Joy-jinyu/jyconsole.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "node",
+    "console",
+    "jyconsole"
+  ],
+  "author": "joy",
+  "license": "MIT"
 }
