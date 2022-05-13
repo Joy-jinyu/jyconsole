@@ -1,0 +1,5 @@
+# chai的学习文档
+test/chai/
+
+# 测试用例覆盖率
+coverage/

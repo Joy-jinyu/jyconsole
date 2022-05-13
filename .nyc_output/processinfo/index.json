@@ -1,0 +1,1 @@
+{"processes":{"875e132a-b28d-4fcc-bea3-2877bef2fb19":{"parent":null,"children":["dd6d7ed0-309a-4e79-b419-29a8be324faf"]},"dd6d7ed0-309a-4e79-b419-29a8be324faf":{"parent":"875e132a-b28d-4fcc-bea3-2877bef2fb19","children":[]}},"files":{"/Users/jinke/life/jyconsole/src/index.ts":["dd6d7ed0-309a-4e79-b419-29a8be324faf"]},"externalIds":{}}

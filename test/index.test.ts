@@ -18,6 +18,11 @@ const should = chai.should();
  * mocha -r ts-node/register
  */
 
+/**
+ * use coverage
+ * nyc
+ */
+
 describe("array", function () {
   describe("传入一个数组", function () {
     it("返回包含 数组 和 字符串为joy 的新数组", function () {
